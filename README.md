@@ -7,5 +7,8 @@ https://hexo.io/
 Docs
 https://hexo.io/zh-tw/docs/
 
+Themes
+https://hexo.io/themes/
+
 Sitemap Plugin
 https://github.com/hexojs/hexo-generator-sitemap
