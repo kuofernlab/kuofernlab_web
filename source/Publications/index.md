@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Publication list
 date: 2021-09-18 15:57:57
 ---
-# Publication list 
+
 (*equally contributed)
  
 ## 2021
