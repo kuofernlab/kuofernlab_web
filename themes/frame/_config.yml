@@ -3,14 +3,14 @@
 language: en
 
 # header
-site_brand_name: Frame.
+site_brand_name: Kuo fern lab website 
 
 menu:
   Home: /
-  Archive: /archives/
-  Gallery: /categories/gallery/
+  Research: /archives/
   Publications: /publications/
   Members: /members/
+  About: /categories/gallery/
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -27,13 +27,13 @@ date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Hi, this is Frame. 
-  body: A minimal, elegant hexo theme.
-  image: /profile_cover.png
+  title: Kuo fern lab website 
+  body: We are broadly interested in the evolutionary processes at the gene, genome, and microbiome levels that shaped the plant diversity. We mostly focus on “seed-free” plants (ferns, lycophytes, and bryophytes), and anything that has a weird biology.
+  image: /Test_Home.png
 
   links:
-    Home: /
-    Blogs: /archives/
+    Publication: /publications/
+    Mambers: /members/
 
 # footer
 footer:
