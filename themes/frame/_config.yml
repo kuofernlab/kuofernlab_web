@@ -29,7 +29,7 @@ date_format: MMM D, YYYY
 profile:
   title: Kuo fern lab website 
   body: We are broadly interested in the evolutionary processes at the gene, genome, and microbiome levels that shaped the plant diversity. We mostly focus on “seed-free” plants (ferns, lycophytes, and bryophytes), and anything that has a weird biology.
-  image: /Test_Home.png
+  image: /images/Test_Home.png
 
   links:
     Publication: /publications/
