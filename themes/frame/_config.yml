@@ -3,7 +3,7 @@
 language: en
 
 # header
-site_brand_name: Kuo fern lab website 
+site_brand_name: Kuo fern lab 
 
 menu:
   Home: /
@@ -27,7 +27,7 @@ date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Kuo fern lab website 
+  title: Kuo fern lab 
   body: Enjoying the diversity of ferns and lycophytes, and studying diverse evolutionary issues of these plants.
   image: /images/Test_Home.png
 
