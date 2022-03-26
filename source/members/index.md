@@ -50,12 +50,6 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 **Alexandria Quinlan**
 
-## Senior High School
-
-2021
-**彥臻**
-有百家姓的優質高中生
-
 
 ## Undergrads
 2021
@@ -72,13 +66,22 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 **孫梓云**
 拿著顏料畫筆在實驗室不務正業的蕨蕨標本繪圖仔：Ｄ
 
+
+## Senior High School
+
+2021
+**陳彥臻**
+有百家姓的優質高中生
+
+
 # Alumni
 **柯秉豐**
+
 
 ## Web Developer (IT)
 
 **王廣鈞**
-printf("社會底層小角落的一位繳稅人士，監督某大學生科研究費轉化成果效益");
+printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生科研究費轉化成果效益");
 
 **詹元耀**
 "我愛地球"
