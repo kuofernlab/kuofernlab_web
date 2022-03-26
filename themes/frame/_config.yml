@@ -3,14 +3,14 @@
 language: en
 
 # header
-site_brand_name: Kuo fern lab
+site_brand_name: KUO FERN LAB
 
 menu:
   Home: /
   Research: /archives/
   Publications: /publications/
   Members: /members/
-  About: /categories/gallery/
+  #About: /categories/gallery/
 
 # stylesheets loaded in the <head>
 stylesheets:
@@ -42,7 +42,7 @@ footer:
     author:
 
   powered_by: # Powered by Hexo & Frame
-    enable: true
+    enable: false
 
   other_info:
     enable: false

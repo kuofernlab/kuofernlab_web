@@ -1,6 +1,7 @@
 body
   margin 0
 
+/*
 .mask-border::before 
   content ''
   width 100%
@@ -11,6 +12,23 @@ body
   left 0
   pointer-events none
   z-index 8
+*/
+
+.mask-border
+  position fixed
+  width 100%
+  z-index -1
+  img
+    width 50%
+    transform scaleX(-1) rotate(30deg)
+    margin-left 5%
+    margin-top -10%
+
+@media (max-width: 480px)
+  .mask-border
+    img
+      width 100%
+      transform unset
 
 .wrapper
   display flex

@@ -1,11 +1,29 @@
 .footer
     margin-top $margin-primary
-    border $line-secondary $color-text-primary solid
+    //border $line-secondary $color-text-primary solid
     text-style(footer)
-
+    background-color rgb(173,187,158)
     .footer-text
-        margin-top $margin-l-1
-        margin-bottom $margin-primary
+        margin-top 1rem
+        margin-bottom 1rem
+    *
+        color white
         
+#phone::before
+    content 'TEL | '
+#email::before
+    content 'EMAIL | '
+#email
+    display inline-block
+#addr
+    display inline-block
+    margin-left 3rem
+#addr::before
+    content 'OFFICE | '
 
-
+@media (max-width: 480px)
+    #email
+        display block
+    #addr
+        display block
+        margin initial

@@ -24,18 +24,24 @@
             text-style(header)
     .profile-custom
         display flex
-
+        flex-direction column
+        align-items end
         .profile-custom-left
-            display inline-block
+            display block
             border-radius 25px
+            border none
+            overflow hidden
+            width 500px
+            height 700px
 
         .profile-custom-right
+            margin-top 1rem
             display flex
-            flex-direction column
+            flex-direction row
             justify-content space-between
-            width 150px
-            margin-left auto
-            margin-right auto
+            width 500px
+            img
+                width 100px
 
 @media (max-width: 480px)
     .profile
@@ -47,4 +53,13 @@
             
         .profile-image
             width 100%
-            
+
+        .profile-custom
+            align-items center
+            .profile-custom-left
+                width 100%
+
+            .profile-custom-right
+                width 100%
+                img
+                    width 20vw
