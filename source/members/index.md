@@ -17,6 +17,7 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 2019~2020
 **柯雅婷**
+我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員
 
 2018
 **蕭家恩**
@@ -77,6 +78,7 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 # Alumni
 **柯秉豐**
 
+**陳佳茵**
 
 ## Web Developer (IT)
 
