@@ -3,6 +3,20 @@ title: Members
 date: 2021-09-30 02:26:52
 ---
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="../js/jquery.rwdImageMaps.min.js"></script>
+
+<img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map">
+<map name="image-map">
+    <area target="" alt="柯雅婷" title="柯雅婷" href="#" coords="517,0,1336,726" shape="rect">
+    <area target="" alt="吳亦烜" title="吳亦烜" href="#" coords="1599,826,1440,630" shape="rect">
+    <area target="" alt="唐聖凱" title="唐聖凱" href="#" coords="1585,880,1795,1103" shape="rect">
+    <area target="" alt="柯秉豐" title="柯秉豐" href="#" coords="2138,1136,1971,977" shape="rect">
+    <area target="" alt="黃友聞" title="黃友聞" href="#" coords="2049,1191,2213,1358" shape="rect">
+    <area target="" alt="陳佳茵" title="陳佳茵" href="#" coords="2360,1255,2510,1437" shape="rect">
+    <area target="" alt="郭立園" title="郭立園" href="#" coords="2556,1695,2317,1465" shape="rect">
+</map>
+
 
 ## PI
 **郭立園 Li-Yaung Kuo**
@@ -87,3 +101,9 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
 
 **詹元耀**
 "我愛地球"
+
+<script>
+    $(document).ready(function(e) {
+        $('img[usemap]').rwdImageMaps();
+    });
+</script>
