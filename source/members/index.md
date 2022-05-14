@@ -133,7 +133,7 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
 "我愛地球"
 
 <script>
-    $(document).ready(function(e) {
+    $(() => {
         $('img[usemap]').rwdImageMaps();
     });
 </script>
