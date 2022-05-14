@@ -156,8 +156,11 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
             const target = ele.target;
             $('strong').each( (index, name) => {
                 if(name.innerText.includes(target.title)){
-                    name.scrollIntoView({behavior: "smooth", block: "center"});
-                    name.style.animation = "anim 5s";
+                    name.scrollIntoView({behavior: 'smooth', block: 'center'});
+                    name.style.animation = 'anim 5s';
+                    setTimeout(() => {
+                    name.style.animation = '';
+                    }, 5100);
                 }
             });
         });
