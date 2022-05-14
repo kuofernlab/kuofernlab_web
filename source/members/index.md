@@ -134,8 +134,7 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
 
 <style>
     @keyframes anim {
-        0% {color: black;}
-        50% {color: red;}
+        0% {color: red;}
         100% {color: black;}
     }
 </style>
@@ -157,10 +156,10 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
             $('strong').each( (index, name) => {
                 if(name.innerText.includes(target.title)){
                     name.scrollIntoView({behavior: 'smooth', block: 'center'});
-                    name.style.animation = 'anim 5s';
+                    name.style.animation = 'anim 4s';
                     setTimeout(() => {
                     name.style.animation = '';
-                    }, 5100);
+                    }, 4100);
                 }
             });
         });
