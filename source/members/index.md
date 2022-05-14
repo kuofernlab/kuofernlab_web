@@ -7,7 +7,7 @@ date: 2021-09-30 02:26:52
 <script src="../js/jquery.rwdImageMaps.min.js"></script>
 
 <div class="map_wrapper">
-<img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map1">
+<img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map1" style="transform: rotate(-30deg);">
 <map name="image-map1">
     <area target="" alt="柯雅婷" title="柯雅婷" coords="517,0,1336,726" shape="rect">
     <area target="" alt="吳亦烜" title="吳亦烜" coords="1599,826,1440,630" shape="rect">
@@ -141,6 +141,10 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
 "我愛地球"
 
 <style>
+    .map_wrapper{
+        overflow: hidden;
+    }
+
     @keyframes anim {
         0% {color: red;}
         100% {color: black;}
