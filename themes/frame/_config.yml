@@ -7,7 +7,7 @@ site_brand_name: KUO FERN LAB
 
 menu:
   Home: /
-  Research: /archives/
+  Research: /research/
   Publications: /publications/
   Members: /members/
   #About: /categories/gallery/
@@ -34,6 +34,7 @@ profile:
   links:
     Publication: /publications/
     Mambers: /members/
+    Research: /research/
 
 # footer
 footer:
