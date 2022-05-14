@@ -6,14 +6,14 @@ date: 2021-09-18 15:57:57
 (*equally contributed)
 
 ## in review
-Ke B-F, Wang G-J, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae.
+**Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae.
 
 Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov.
 
 ## 2022
-Quinlan A*, Lee P-H*, Tang T-Y, Huang Y-M, Chiou W-L, **Kuo L-Y**. 2022. Providing the missing links in fern life history: insights from a phenological survey of the gametophyte stage. Applications in Plant Sciences 10: e11473.
+**Quinlan A\***, Lee P-H*, Tang T-Y, Huang Y-M, Chiou W-L, **Kuo L-Y**. 2022. Providing the missing links in fern life history: insights from a phenological survey of the gametophyte stage. Applications in Plant Sciences 10: e11473.
 
-Wu Y-H, Ke Y-T, Chan Y-Y, Wang G-J, **Kuo L-Y**. 2022. Integrating tissue‐direct PCR into genetic identification: an upgraded molecular ecology way to survey fern field gametophytes. Applications in Plant Sciences: e11462.
+**Wu Y-H**, **Ke Y-T**, Chan Y-Y, **Wang G-J**, **Kuo L-Y**. 2022. Integrating tissue‐direct PCR into genetic identification: an upgraded molecular ecology way to survey fern field gametophytes. Applications in Plant Sciences: e11462.
 
 Chen K-H, Xi Q-Y, Chang C-C, **Kuo L-Y**. 2022. Mycobiome detection from a single subterranean gametophyte using metabarcoding techniques. Applications in Plant Sciences 10: e11461.
 
@@ -23,9 +23,9 @@ Du X-Y, **Kuo L-Y**, Zuo Z-Y, Li D-Z, Lu J-M. Structural variation of plastomes 
 
 
 ## 2021
-**Kuo L-Y**, Tang SK, Kao T-T, Ebihara A, Fawcett S, Hsiao M-C, Shinohara W, Dauphin B. 2021. A dormant resource for genome size estimation in ferns: C‐value inference of the Ophioglossaceae using herbarium specimen spores. Applications in Plant Sciences 9: e11452.
+**Kuo L-Y**, **Tang SK**, Kao T-T, Ebihara A, Fawcett S, Hsiao M-C, Shinohara W, Dauphin B. 2021. A dormant resource for genome size estimation in ferns: C‐value inference of the Ophioglossaceae using herbarium specimen spores. Applications in Plant Sciences 9: e11452.
 
-Wu Y-H, Sun C-Y, Ebihara A, Lu NT, Rouhan G, **Kuo L-Y**. 2021. Two new species in the fern genus Lomariopsis (Lomariopsidaceae) from East Asia. PhytoKeys 187: 161–176.
+**Wu Y-H**, **Sun C-Y**, Ebihara A, Lu NT, Rouhan G, **Kuo L-Y**. 2021. Two new species in the fern genus Lomariopsis (Lomariopsidaceae) from East Asia. PhytoKeys 187: 161–176.
 
 Wickell D, **Kuo L-Y**, Yang H-P, Ashok AD, Irisarri I, Dadras A, de Vries S, DeVries J, Huang Y-M, Li Z, et al. 2021. Underwater CAM photosynthesis elucidated by Isoetes genome. Nature Communications 12: 6348.
 
@@ -38,7 +38,7 @@ Fawcett S, Smith AR, Sundue M, Burleigh JG, Sessa EB, **Kuo L-Y**, Chen C-W, Tes
 Chang Z-X, Hsu T-C, **Kuo L-Y**. 2021. Four new records for the fern flora of Taiwan. Taiwan Journal of Biodiversity 23: 13–25.
  
 ## 2020
-**Kuo L-Y**, Chang Y-H, Huang Y-H, Testo W, Ebihara A, Rouhan G, Quintanillag LG, Watkins JEJ, Huang Y-M, Li F-W. 2020. A global phylogeny of Stegnogramma ferns (Thelypteridaceae): generic and sectional revision, historical biogeography and leaf architecture. Cladistics 26: 164–183.
+**Kuo L-Y**, Chang Y-H, **Huang Y-H**, Testo W, Ebihara A, Rouhan G, Quintanillag LG, Watkins JEJ, Huang Y-M, Li F-W. 2020. A global phylogeny of Stegnogramma ferns (Thelypteridaceae): generic and sectional revision, historical biogeography and leaf architecture. Cladistics 26: 164–183.
 
 Chang Z-X*, **Kuo L-Y\***, P-F Lu, Y-M Huang. New addition to the Asplenium normale complex (Aspleniaceae): an endemic forma in Taiwan. Taiwania, 65: 253–260.
  
