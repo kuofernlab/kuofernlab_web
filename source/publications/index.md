@@ -29,7 +29,7 @@ Du X-Y, **Kuo L-Y**, Zuo Z-Y, Li D-Z, Lu J-M. Structural variation of plastomes 
 
 Wickell D, **Kuo L-Y**, Yang H-P, Ashok AD, Irisarri I, Dadras A, de Vries S, DeVries J, Huang Y-M, Li Z, et al. 2021. Underwater CAM photosynthesis elucidated by Isoetes genome. Nature Communications 12: 6348.
 
-Du X-Y*, Lu J-M,* Zhang L-B, Wen J, **Kuo L-Y**, Mynssen C, Schneider H, Li D-Z. Simultaneous diversification of Polypodiales and angiosperms in the Mesozoic. Cladistics, doi: 10.1111/cla.12457.
+Du X-Y*, Lu J-M*, Zhang L-B, Wen J, **Kuo L-Y**, Mynssen C, Schneider H, Li D-Z. Simultaneous diversification of Polypodiales and angiosperms in the Mesozoic. Cladistics, doi: 10.1111/cla.12457.
 
 Ebihara A, Nakato N, Chang Y-H, **Kuo L-Y**. 2021. Coryphopteris castanea (Thelypteridaceae), a Polymorphic Diploid Species Distributed in Taiwan and Japan. Bulletin of the National Museum of Nature and Science, Series B 47: 71–77.
 
