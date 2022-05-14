@@ -6,6 +6,7 @@ date: 2021-09-30 02:26:52
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="../js/jquery.rwdImageMaps.min.js"></script>
 
+<div class="map_wrapper">
 <img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map1">
 <map name="image-map1">
     <area target="" alt="柯雅婷" title="柯雅婷" coords="517,0,1336,726" shape="rect">
@@ -16,7 +17,10 @@ date: 2021-09-30 02:26:52
     <area target="" alt="陳佳茵" title="陳佳茵" coords="2360,1255,2510,1437" shape="rect">
     <area target="" alt="郭立園" title="郭立園" coords="2556,1695,2317,1465" shape="rect">
 </map>
+</div>
 
+
+<div class="map_wrapper">
 <img src="../images/lab_members/IMG_6652.jpeg" usemap="#image-map2">
 <map name="image-map2">
     <area target="" alt="黃育萱" title="黃育萱" coords="4020,2096,3713,1373" shape="rect">
@@ -31,9 +35,11 @@ date: 2021-09-30 02:26:52
     <area target="" alt="謝佩君" title="謝佩君" coords="899,1872,1227,2093" shape="rect">
     <area target="" alt="蕭家恩" title="蕭家恩" coords="472,1786,13,2584" shape="rect">
 </map>
+</div>
 
+
+<div class="map_wrapper">
 <img src="../images/lab_members/IMG_6653.jpeg" usemap="#image-map3">
-
 <map name="image-map3">
     <area target="" alt="黃友聞" title="黃友聞" coords="3963,1378,3464,1955" shape="rect">
     <area target="" alt="孫梓云" title="孫梓云" coords="3218,1549,3457,1927" shape="rect">
@@ -48,6 +54,8 @@ date: 2021-09-30 02:26:52
     <area target="" alt="李育鴻" title="李育鴻" coords="1805,1836,1516,2124" shape="rect">
     <area target="" alt="吳亦烜" title="吳亦烜" coords="803,1437,1298,2007" shape="rect">
 </map>
+</div>
+
 
 ## PI
 **郭立園 Li-Yaung Kuo**
