@@ -132,8 +132,35 @@ printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生�
 **詹元耀**
 "我愛地球"
 
+<style>
+    @keyframes anim {
+        0% {color: black;}
+        50% {color: red;}
+        100% {color: black;}
+    }
+</style>
+
 <script>
     $(() => {
         $('img[usemap]').rwdImageMaps();
+
+        // const names = document.querySelectorAll('strong');
+        // $('area').click(() => {
+        //     if ( names.some( name => name.innerText.includes($(this).attr('title')) ) ) {
+        //         name.scrollIntoView();
+        //     }
+        // });
+
+        const names = document.querySelectorAll('strong');
+        $('area').click((ele) => {
+            const target = ele.target;
+            $('strong').each( (index, name) => {
+                if(name.innerText.includes(target.title)){
+                    name.scrollIntoView({behavior: "smooth", block: "center"});
+                    name.style.animation = "anim 5s";
+                }
+            });
+        });
+
     });
 </script>
