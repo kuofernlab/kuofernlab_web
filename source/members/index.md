@@ -6,17 +6,48 @@ date: 2021-09-30 02:26:52
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="../js/jquery.rwdImageMaps.min.js"></script>
 
-<img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map">
-<map name="image-map">
-    <area target="" alt="柯雅婷" title="柯雅婷" href="#" coords="517,0,1336,726" shape="rect">
-    <area target="" alt="吳亦烜" title="吳亦烜" href="#" coords="1599,826,1440,630" shape="rect">
-    <area target="" alt="唐聖凱" title="唐聖凱" href="#" coords="1585,880,1795,1103" shape="rect">
-    <area target="" alt="柯秉豐" title="柯秉豐" href="#" coords="2138,1136,1971,977" shape="rect">
-    <area target="" alt="黃友聞" title="黃友聞" href="#" coords="2049,1191,2213,1358" shape="rect">
-    <area target="" alt="陳佳茵" title="陳佳茵" href="#" coords="2360,1255,2510,1437" shape="rect">
-    <area target="" alt="郭立園" title="郭立園" href="#" coords="2556,1695,2317,1465" shape="rect">
+<img src="../images/lab_members/MVIMG_20200708_103554.jpg" usemap="#image-map1">
+<map name="image-map1">
+    <area target="" alt="柯雅婷" title="柯雅婷" coords="517,0,1336,726" shape="rect">
+    <area target="" alt="吳亦烜" title="吳亦烜" coords="1599,826,1440,630" shape="rect">
+    <area target="" alt="唐聖凱" title="唐聖凱" coords="1585,880,1795,1103" shape="rect">
+    <area target="" alt="柯秉豐" title="柯秉豐" coords="2138,1136,1971,977" shape="rect">
+    <area target="" alt="黃友聞" title="黃友聞" coords="2049,1191,2213,1358" shape="rect">
+    <area target="" alt="陳佳茵" title="陳佳茵" coords="2360,1255,2510,1437" shape="rect">
+    <area target="" alt="郭立園" title="郭立園" coords="2556,1695,2317,1465" shape="rect">
 </map>
 
+<img src="../images/lab_members/IMG_6652.jpeg" usemap="#image-map2">
+<map name="image-map2">
+    <area target="" alt="黃育萱" title="黃育萱" coords="4020,2096,3713,1373" shape="rect">
+    <area target="" alt="王廣鈞" title="王廣鈞" coords="3706,1922,3389,1437" shape="rect">
+    <area target="" alt="唐聖凱" title="唐聖凱" coords="2456,1633,2762,1950" shape="rect">
+    <area target="" alt="蔡秉言" title="蔡秉言" coords="2345,1845,2452,1642" shape="rect">
+    <area target="" alt="李育鴻" title="李育鴻" coords="2242,1592,2342,1781" shape="rect">
+    <area target="" alt="吳亦烜" title="吳亦烜" coords="2150,1779,1989,1605" shape="rect">
+    <area target="" alt="黃友聞" title="黃友聞" coords="1630,1731,1533,1891" shape="rect">
+    <area target="" alt="劉孝謙" title="劉孝謙" coords="1327,1722,1534,1968" shape="rect">
+    <area target="" alt="劉又銜" title="劉又銜" coords="1280,1705,1142,1865" shape="rect">
+    <area target="" alt="謝佩君" title="謝佩君" coords="899,1872,1227,2093" shape="rect">
+    <area target="" alt="蕭家恩" title="蕭家恩" coords="472,1786,13,2584" shape="rect">
+</map>
+
+<img src="../images/lab_members/IMG_6653.jpeg" usemap="#image-map3">
+
+<map name="image-map3">
+    <area target="" alt="黃友聞" title="黃友聞" href="" coords="3963,1378,3464,1955" shape="rect">
+    <area target="" alt="孫梓云" title="孫梓云" href="" coords="3218,1549,3457,1927" shape="rect">
+    <area target="" alt="劉又銜" title="劉又銜" href="" coords="2972,1524,3211,1857" shape="rect">
+    <area target="" alt="劉孝謙" title="劉孝謙" href="" coords="2766,1555,2976,1857" shape="rect">
+    <area target="" alt="謝佩君" title="謝佩君" href="" coords="2684,1665,2766,1829" shape="rect">
+    <area target="" alt="柯雅婷" title="柯雅婷" href="" coords="2609,1615,2687,1761" shape="rect">
+    <area target="" alt="蕭家恩" title="蕭家恩" href="" coords="2410,1630,2538,1783" shape="rect">
+    <area target="" alt="黃育萱" title="黃育萱" href="" coords="2085,1806,1986,1674" shape="rect">
+    <area target="" alt="唐聖凱" title="唐聖凱" href="" coords="1843,1674,1982,1859" shape="rect">
+    <area target="" alt="蔡秉言" title="蔡秉言" href="" coords="1590,1534,1811,1822" shape="rect">
+    <area target="" alt="李育鴻" title="李育鴻" href="" coords="1805,1836,1516,2124" shape="rect">
+    <area target="" alt="吳亦烜" title="吳亦烜" href="" coords="803,1437,1298,2007" shape="rect">
+</map>
 
 ## PI
 **郭立園 Li-Yaung Kuo**
@@ -86,7 +117,6 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 2021
 **陳彥臻**
-有百家姓的優質高中生
 
 
 # Alumni
