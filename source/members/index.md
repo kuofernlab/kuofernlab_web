@@ -103,7 +103,7 @@ https://www.researchgate.net/profile/Li-Yaung-Kuo
 時常在無花植物中開花、左手拿孢子葉右手拿營養葉的實驗室夜貓(ㄕㄨㄛˋ)子(ㄦˋ)。
 
 **Alexandria Quinlan**
-
+I have a special fervor for ferns, and other spore producing organisms. I am particularly interested in ecological assocations, such as ferns growing on tree ferns, moss growing on tree ferns, algae growing on tree ferns, fungi growing on tree ferns... if I could, I would also grow on a tree fern.
 
 ## Undergrads
 2022
