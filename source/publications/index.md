@@ -5,21 +5,27 @@ date: 2021-09-18 15:57:57
 
 (*equally contributed)
 
-## in review
-**Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae.
+## in press or review
 
-Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov.
+
+Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press.
 
 ## 2022
+**Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae. Frontiers in Plant Science 13: Article 885501.
+
 **Quinlan A\***, Lee P-H*, Tang T-Y, Huang Y-M, Chiou W-L, **Kuo L-Y**. 2022. Providing the missing links in fern life history: insights from a phenological survey of the gametophyte stage. Applications in Plant Sciences 10: e11473.
 
 **Wu Y-H**, **Ke Y-T**, Chan Y-Y, **Wang G-J**, **Kuo L-Y**. 2022. Integrating tissue‐direct PCR into genetic identification: an upgraded molecular ecology way to survey fern field gametophytes. Applications in Plant Sciences: e11462.
 
 Chen K-H, Xi Q-Y, Chang C-C, **Kuo L-Y**. 2022. Mycobiome detection from a single subterranean gametophyte using metabarcoding techniques. Applications in Plant Sciences 10: e11461.
 
-Huang X, Wang W, Gong T, Wickell D, **Kuo L-Y**, Zhang X, Wen J, Kim H, Lu F, Li H, et al. 2022. The flying spider-monkey tree fern genome: insights into fern evolution and arborescence. Nature Plants, in press.
+Huang X, Wang W, Gong T, Wickell D, **Kuo L-Y**, Zhang X, Wen J, Kim H, Lu F, Li H, et al. 2022. The flying spider-monkey tree fern genome: insights into fern evolution and arborescence. Nature Plants 8: 500–512.
 
-Du X-Y, **Kuo L-Y**, Zuo Z-Y, Li D-Z, Lu J-M. Structural variation of plastomes provides key insight into the deep phylogeny of ferns. Frontiers in Plant Science. in press.
+Du X-Y, **Kuo L-Y**, Zuo Z-Y, Li D-Z, Lu J-M. Structural variation of plastomes provides key insight into the deep phylogeny of ferns. Frontiers in Plant Science 13: Article 862772.
+
+Lu JM*, Du XY*, **Kuo L-Y**, Ebihara A, Perrie LR, Zuo ZY, Shang H, ChangY-H, LiD-Z. 2022. Plastome phylogenomic analysis reveals evolutionary divergences of Polypodiales suborder Dennstaedtiineae. BMC Plant Biology 22: 511.
+
+Triana‐Moreno LA, Schwartsburd PB, Yañez A, Pena NTL, **Kuo L-Y**, Rothfels C, Sundue M. 2022. (2892) Proposal to conserve the name Dennstaedtia (Dennstaedtiaceae) with a conserved type. Taxon 71: 688–690.
 
 
 ## 2021
