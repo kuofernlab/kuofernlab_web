@@ -108,6 +108,7 @@ I have a special fervor for ferns, and other spore producing organisms. I am par
 ## Undergrads
 2022
 **王于嘉**
+我愛吃孢子~ 我研究的蛾也愛吃孢子
 
 2021
 **劉孝謙**
@@ -128,7 +129,7 @@ I have a special fervor for ferns, and other spore producing organisms. I am par
 
 2021
 **陳彥臻**
-
+蕨類研究室養蟲子是否搞錯了什麽？
 
 # Alumni
 **柯秉豐**
