@@ -7,11 +7,20 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
+**Xie P-J**, **Ke Y-T**, **Kuo L-Y**. Modified CTAB protocols for HMW DNA extractions of ferns. In review.
 
-Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press.
+Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. In review.
+
+Rahmatpour N, **Kuo L-Y**, Kang J, Herman E, Lei L, Li M, Srinivasan S, Zipper R, Wolniak SM, Delwiche C, et al. Analyses of Marsilea vestita genome and transcriptomes do no support widespread intron retention during spermatogenesis. New Phytologist, in press doi: 10.1111/nph.18652. 
+
+Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press, doi: 10.1002/tax.12858.
+
+## 2023
+
+**Tang SK**, Lee P-H, Liou W-T, Lin C-H, Huang Y-M, and **Kuo L-Y**. 2023. Fern spores－“ready-to-use” standards for plant genome size estimation using a flow cytometric approach. Plants 12: 140.
 
 ## 2022
-**Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae. Frontiers in Plant Science 13: Article 885501.
+**Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. 2022. Systematics and plastome evolution in Schizaeaceae. Frontiers in Plant Science 13: Article 885501.
 
 **Quinlan A\***, Lee P-H*, Tang T-Y, Huang Y-M, Chiou W-L, **Kuo L-Y**. 2022. Providing the missing links in fern life history: insights from a phenological survey of the gametophyte stage. Applications in Plant Sciences 10: e11473.
 
@@ -23,7 +32,7 @@ Huang X, Wang W, Gong T, Wickell D, **Kuo L-Y**, Zhang X, Wen J, Kim H, Lu F, Li
 
 Du X-Y, **Kuo L-Y**, Zuo Z-Y, Li D-Z, Lu J-M. Structural variation of plastomes provides key insight into the deep phylogeny of ferns. Frontiers in Plant Science 13: Article 862772.
 
-Lu JM*, Du XY*, **Kuo L-Y**, Ebihara A, Perrie LR, Zuo ZY, Shang H, ChangY-H, LiD-Z. 2022. Plastome phylogenomic analysis reveals evolutionary divergences of Polypodiales suborder Dennstaedtiineae. BMC Plant Biology 22: 511.
+Lu JM*, Du XY*, **Kuo L-Y**, Ebihara A, Perrie LR, Zuo ZY, Shang H, Chang Y-H, LiD-Z. 2022. Plastome phylogenomic analysis reveals evolutionary divergences of Polypodiales suborder Dennstaedtiineae. BMC Plant Biology 22: 511.
 
 Triana‐Moreno LA, Schwartsburd PB, Yañez A, Pena NTL, **Kuo L-Y**, Rothfels C, Sundue M. 2022. (2892) Proposal to conserve the name Dennstaedtia (Dennstaedtiaceae) with a conserved type. Taxon 71: 688–690.
 
