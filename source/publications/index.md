@@ -3,12 +3,20 @@ title: Publication list
 date: 2021-09-18 15:57:57
 ---
 
-(*equally contributed)
-
 ## in press or review
 
+**Xie P-J**, **Ke Y-T**, **Kuo L-Y**. Modified CTAB protocols for HMW DNA extractions of ferns. In review.
 
-Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press.
+Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. In review.
+
+Rahmatpour N, **Kuo L-Y**, Kang J, Herman E, Lei L, Li M, Srinivasan S, Zipper R, Wolniak SM, Delwiche C, et al. Analyses of Marsilea vestita genome and transcriptomes do no support widespread intron retention during spermatogenesis. New Phytologist, in press doi: 10.1111/nph.18652. 
+
+Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press, doi: 10.1002/tax.12858.
+
+## 2023
+
+**Tang SK**, Lee P-H, Liou W-T, Lin C-H, Huang Y-M, and **Kuo L-Y**. 2023. Fern spores－“ready-to-use” standards for plant genome size estimation using a flow cytometric approach. Plants 12: 140.
+
 
 ## 2022
 **Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae. Frontiers in Plant Science 13: Article 885501.
