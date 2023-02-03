@@ -124,9 +124,6 @@ I have a special fervor for ferns, and other spore producing organisms. I am par
 **孫梓云**
 拿著顏料畫筆在實驗室不務正業的蕨蕨標本繪圖仔：Ｄ
 
-
-## Senior High School
-
 2021
 **陳彥臻**
 蕨類研究室養蟲子是否搞錯了什麽？
