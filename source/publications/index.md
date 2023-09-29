@@ -15,7 +15,7 @@ Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systemati
 
 Lin L, Li C, Chang C-C, Du R, Ji J, Kuo L-Y, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
 
-Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S*. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. In review.
+Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. In review.
 
 Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. In review.
 
