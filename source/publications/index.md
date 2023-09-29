@@ -7,17 +7,35 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-**Xie P-J**, **Ke Y-T**, **Kuo L-Y**. Modified CTAB protocols for HMW DNA extractions of ferns. In review.
+Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. In review.
 
-Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. In review.
+**Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. Organellar phylogenomics of Ophioglossaceae fern genera. In review.
 
-Rahmatpour N, **Kuo L-Y**, Kang J, Herman E, Lei L, Li M, Srinivasan S, Zipper R, Wolniak SM, Delwiche C, et al. Analyses of Marsilea vestita genome and transcriptomes do no support widespread intron retention during spermatogenesis. New Phytologist, in press doi: 10.1111/nph.18652. 
+Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systematics, and evolution of ferns and lycophytes in the omics era. Frontiers in Plant Science 14: 1146829. 
 
-Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon, in press, doi: 10.1002/tax.12858.
+Lin L, Li C, Chang C-C, Du R, Ji J, Kuo L-Y, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
+
+Tseng Y-H*, **Kuo L-Y***, Borokini I*, Fawcett S*. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. In review.
+
+Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. In review.
+
+Helsen K, Viana J, Lin T-Y, **Kuo L-Y**, Zelený D. Comparing trait syndromes between Taiwanese subtropical terrestrial and epiphytic ferns at the species and community level. Journal of Vegetation Science, in press. 
+
 
 ## 2023
 
 **Tang SK**, Lee P-H, Liou W-T, Lin C-H, Huang Y-M, and **Kuo L-Y**. 2023. Fern spores－“ready-to-use” standards for plant genome size estimation using a flow cytometric approach. Plants 12: 140.
+
+**Xie P-J**, **Ke Y-T**, **Kuo L-Y**. Modified CTAB protocols for high‐molecular‐weight DNA extractions from ferns. Applications in Plant Sciences 11: e11526.
+
+Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systematics, and evolution of ferns and lycophytes in the omics era. Frontiers in Plant Science 14: 1146829. 
+
+Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. Taiwania 68: 148–154.
+
+Rahmatpour N, **Kuo L-Y**, Kang J, Herman E, Lei L, Li M, Srinivasan S, Zipper R, Wolniak SM, Delwiche C, et al. Analyses of Marsilea vestita genome and transcriptomes do no support widespread intron retention during spermatogenesis. New Phytologist 237: 1490–1494. 
+
+Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov.  Taxon 72: 20–46.
+
 
 ## 2022
 **Ke B-F**, **Wang G-J**, Labiak PH, Rouhan G, GoFlag Consortium, Chen C-W, Shepherd L, Ohlsen DJ, Renner MAM, Karol KG, Li F-W, **Kuo L-Y**. Systematics and plastome evolution in Schizaeaceae. Frontiers in Plant Science 13: Article 885501.
