@@ -11,8 +11,6 @@ Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Wi
 
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. Organellar phylogenomics of Ophioglossaceae fern genera. In review.
 
-Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systematics, and evolution of ferns and lycophytes in the omics era. Frontiers in Plant Science 14: 1146829. 
-
 Lin L, Li C, Chang C-C, Du R, Ji J, Kuo L-Y, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
 
 Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. In review.
