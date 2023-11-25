@@ -9,6 +9,10 @@ date: 2021-09-18 15:57:57
 
 Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. In review.
 
+Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. In review.
+
+Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). In review.
+
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. Organellar phylogenomics of Ophioglossaceae fern genera. In review.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, Kuo L-Y, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
@@ -32,7 +36,7 @@ Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. Resurrection of Spicantop
 
 Rahmatpour N, **Kuo L-Y**, Kang J, Herman E, Lei L, Li M, Srinivasan S, Zipper R, Wolniak SM, Delwiche C, et al. Analyses of Marsilea vestita genome and transcriptomes do no support widespread intron retention during spermatogenesis. New Phytologist 237: 1490–1494. 
 
-Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov.  Taxon 72: 20–46.
+Sundue M, Triana-Moreno LA, Yañez A, **Kuo L-Y**, Rothfels CJ, Pena NTL, Schwartsburd PB. Phylogenetic revision of Dennstaedtioideae (Dennstaedtiaceae: Polypodiales) with description of Mucura, gen. nov. Taxon 72: 20–46.
 
 
 ## 2022
