@@ -7,13 +7,9 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. In review.
-
 Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. In review.
 
 Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). In review.
-
-**Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. Organellar phylogenomics of Ophioglossaceae fern genera. In review.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
 
@@ -21,7 +17,12 @@ Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridizat
 
 Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. In review.
 
-Helsen K, Viana J, Lin T-Y, **Kuo L-Y**, Zelený D. Comparing trait syndromes between Taiwanese subtropical terrestrial and epiphytic ferns at the species and community level. Journal of Vegetation Science, in press. 
+
+## 2024
+
+**Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. 2024. Organellar phylogenomics of Ophioglossaceae fern genera. Frontiers in Plant Science 14: 1294716. 
+
+Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. 2024. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. Proceedings of the National Academy of Sciences 121: e2312607121.
 
 
 ## 2023
@@ -31,6 +32,8 @@ Helsen K, Viana J, Lin T-Y, **Kuo L-Y**, Zelený D. Comparing trait syndromes be
 **Xie P-J**, **Ke Y-T**, **Kuo L-Y**. 2023. Modified CTAB protocols for high‐molecular‐weight DNA extractions from ferns. Applications in Plant Sciences 11: e11526.
 
 Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systematics, and evolution of ferns and lycophytes in the omics era. Frontiers in Plant Science 14: 1146829. 
+
+Helsen K*, Viana J*, Lin T-Y, **Kuo L-Y**, Zelený D. Comparing trait syndromes between Taiwanese subtropical terrestrial and epiphytic ferns at the species and community level. Journal of Vegetation Science 34: e13220.
 
 Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. 2023. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. Taiwania 68: 148–154.
 
