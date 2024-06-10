@@ -7,13 +7,11 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. In review.
+**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
 
 Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. In review.
-
-
 
 
 ## 2024
@@ -24,7 +22,9 @@ Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Wi
 
 Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. 2024. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). Molecular Phylogenetics and Evolution 194: 108040.
 
-Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. American Journal of Botany, in press.
+Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. American Journal of Botany, in press. https://doi.org/10.1002/ajb2.16319
+
+Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. Applications in Plant Sciences, in press.
 
 
 ## 2023
