@@ -7,7 +7,7 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples.
+**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. In review.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
 
