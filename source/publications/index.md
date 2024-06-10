@@ -18,7 +18,7 @@ Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridizat
 
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. 2024. Organellar phylogenomics of Ophioglossaceae fern genera. Frontiers in Plant Science 14: 1294716. 
 
-Li C, Wickell D, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. 2024. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. Proceedings of the National Academy of Sciences 121: e2312607121.
+Li C*, Wickell D*, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, Williams M, et al. 2024. Extraordinary preservation of gene collinearity over three hundred million years revealed in homosporous lycophytes. Proceedings of the National Academy of Sciences 121: e2312607121.
 
 Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. 2024. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). Molecular Phylogenetics and Evolution 194: 108040.
 
