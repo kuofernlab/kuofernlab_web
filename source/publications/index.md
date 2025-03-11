@@ -7,9 +7,9 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-Shao W, **Kuo L-Y**, Chen C-W, Shang H, Maryani AM, Zhang D. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. In review.
+Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM, Zhang D. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. In review.
 
-Fauskee B, **Kuo L-Y**, Heath T, Xie P-J, Pryer K. Comparative phylogenetic analyses of RNA editing in fern plastomes. In review.
+Fauskee B, **Kuo L-Y**, Heath T, **Xie P-J**, Pryer K. Comparative phylogenetic analyses of RNA editing in fern plastomes. In review.
 
 Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. In review.
 
