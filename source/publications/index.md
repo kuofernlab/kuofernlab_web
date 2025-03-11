@@ -7,12 +7,21 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
-**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. In review.
+Shao W, **Kuo L-Y**, Chen C-W, Shang H, Maryani AM, Zhang D. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. In review.
 
-Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Wang L, Chen K-H. Contrasting endophytic fungal communities in two Lycopodiaceae plant species: unraveling potential HupA-producing fungi and fungal interactions. In review.
+Fauskee B, **Kuo L-Y**, Heath T, Xie P-J, Pryer K. Comparative phylogenetic analyses of RNA editing in fern plastomes. In review.
+
+Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. In review.
+
+
+# 2025
+
+Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. Phyllosphere mycobiome in two Lycopodiaceae plant species: unraveling potential HupA-Producing fungi and fungal interactions. Frontiers in Plant Science, in press.
 
 
 ## 2024
+
+**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. Scientific Data 11: 1314.
 
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. 2024. Organellar phylogenomics of Ophioglossaceae fern genera. Frontiers in Plant Science 14: 1294716. 
 
@@ -20,11 +29,11 @@ Li C*, Wickell D*, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, 
 
 Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. 2024. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). Molecular Phylogenetics and Evolution 194: 108040.
 
-Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Subtropical fern Ophioderma pendulum discloses prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves within epiphytic environments. American Journal of Botany, in press. https://doi.org/10.1002/ajb2.16319
+Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves of epiphytic subtropical fern Ophioderma pendulum. American Journal of Botany 111: e16319.
 
-Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. Applications in Plant Sciences, in press.
+Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. Applications in Plant Sciences 6: e11626.
 
-Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. American Journal of Botany, in press.
+Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. American Journal of Botany 111: e16388.
 
 
 ## 2023
