@@ -22,7 +22,7 @@ Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. Phyllosphere mycobiom
 
 ## 2024
 
-**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. Scientific Data 11: 1314.
+**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. 2024. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. Scientific Data 11: 1314.
 
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. 2024. Organellar phylogenomics of Ophioglossaceae fern genera. Frontiers in Plant Science 14: 1294716. 
 
@@ -45,7 +45,7 @@ Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridizat
 
 Salino A, Rouhan G, **Kuo L-Y**, Almeida TE. 2023. Editorial: Biology, systematics, and evolution of ferns and lycophytes in the omics era. Frontiers in Plant Science 14: 1146829. 
 
-Helsen K*, Viana J*, Lin T-Y, **Kuo L-Y**, Zelený D. Comparing trait syndromes between Taiwanese subtropical terrestrial and epiphytic ferns at the species and community level. Journal of Vegetation Science 34: e13220.
+Helsen K*, Viana J*, Lin T-Y, **Kuo L-Y**, Zelený D. 2023. Comparing trait syndromes between Taiwanese subtropical terrestrial and epiphytic ferns at the species and community level. Journal of Vegetation Science 34: e13220.
 
 Ebihara A, Tagane S, Hirota SK, Suyama Y, **Kuo L-Y**. 2023. Resurrection of Spicantopsis hancockii (Blechnaceae) as an endemic species to Taiwan － Reidentification of Spicantopsis in the Tokara Islands, Japan. Taiwania 68: 148–154.
 
