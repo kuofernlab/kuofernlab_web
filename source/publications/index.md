@@ -30,11 +30,11 @@ Li C*, Wickell D*, **Kuo L-Y**, Chen X, Nie B, Liao X, Peng D, Ji J, Jenkins J, 
 
 Shen Z-Y, Terada T, LandryJ-F, Hoare RJB, **Kuo L-Y**, Chou M-H, Hsu Y-F, Huang J-P. 2024. Systematics and evolutionary dynamics of insect-fern interactions in the specialized fern-spore feeding Cuprininae (Lepidoptera, Stathmopodidae). Molecular Phylogenetics and Evolution 194: 108040.
 
-Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. Prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves of epiphytic subtropical fern Ophioderma pendulum. American Journal of Botany 111: e16319.
+Xie Q-Y, **Kuo L-Y**, Chang C, Lin C-J, Chen K-H. 2024. Prevalent arbuscular mycorrhizae in roots and highly variable mycobiome in leaves of epiphytic subtropical fern Ophioderma pendulum. American Journal of Botany 111: e16319.
 
-Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. An efficient and effective RNA extraction protocol for ferns. Applications in Plant Sciences 6: e11626.
+Pelosi JA, Davenport R, Barbazuk WB, Sessa EB, **Kuo L-Y**. 2024. An efficient and effective RNA extraction protocol for ferns. Applications in Plant Sciences 6: e11626.
 
-Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. American Journal of Botany 111: e16388.
+Tseng Y-H*, **Kuo L-Y***, Borokini I *, Fawcett S *. 2024. The role of deep hybridization in fern speciation: Examples from the Thelypteridaceae. American Journal of Botany 111: e16388.
 
 
 ## 2023
