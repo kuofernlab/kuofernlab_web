@@ -17,7 +17,7 @@ Fauskee B, **Kuo L-Y**, Heath T, **Xie P-J**, Pryer KM. Comparative phylogenetic
 
 Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM, Zhang D. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, in press.
 
-Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. Phyllosphere mycobiome in two Lycopodiaceae plant species: unraveling potential HupA-Producing fungi and fungal interactions. Frontiers in Plant Science 16: 1426540.
+Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. 2025. Phyllosphere mycobiome in two Lycopodiaceae plant species: unraveling potential HupA-Producing fungi and fungal interactions. Frontiers in Plant Science 16: 1426540.
 
 
 ## 2024
