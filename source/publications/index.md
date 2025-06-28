@@ -7,6 +7,9 @@ date: 2021-09-18 15:57:57
 
 ## in press or review
 
+**Kuo L-Y**, Salino A, Almeida TE. Editorial: Biology, Systematics, and Evolution of Ferns and Lycophytes in the Omics Era II. In review.
+
+Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
 
 Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. In review.
 
