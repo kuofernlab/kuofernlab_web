@@ -27,7 +27,7 @@ Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. 2025. Phyllosphere my
 
 ## 2024
 
-**Kuo L-Y**, Tang S-K, Huang Y-H, Xie P-J, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. 2024. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. Scientific Data 11: 1314.
+**Kuo L-Y**, **Tang S-K**, **Huang Y-H**, **Xie P-J**, Chen C-W, Chang Z-X, Hsu T-C, Chang Y-H, Chao Y-S, Chen C-W, et al. 2024. A DNA barcode reference of Asian ferns with expert-identified voucher specimens DNA samples. Scientific Data 11: 1314.
 
 **Kuo L-Y**, Su H-J, Koubínová D, **Xie P-J**, Whitehouse C, Ebihara A, Grant J. 2024. Organellar phylogenomics of Ophioglossaceae fern genera. Frontiers in Plant Science 14: 1294716. 
 
