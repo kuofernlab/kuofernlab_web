@@ -9,7 +9,7 @@ date: 2021-09-18 15:57:57
 
 Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
 
-Labiak PH, **Kuo L-Y***, Fauskee BD, Karol KG. Evolutionary mobility of MORFFO genes: shuttling in and out of plastomes in an ancient fern lineage. In review.
+Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. Evolutionary mobility of MORFFO genes: shuttling in and out of plastomes in an ancient fern lineage. In review.
 
 
 # 2025
