@@ -9,16 +9,18 @@ date: 2021-09-18 15:57:57
 
 Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
 
-Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. In review.
+Labiak PH, **Kuo L-Y***, Fauskee BD, Karol KG. Evolutionary mobility of MORFFO genes: shuttling in and out of plastomes in an ancient fern lineage. In review.
 
 
 # 2025
 
-**Kuo L-Y**, Salino A, Almeida TE. Editorial: Biology, Systematics, and Evolution of Ferns and Lycophytes in the Omics Era II. Frontiers in Plant Science, in press.
+**Kuo L-Y**, Salino A, Almeida TE. 2025. Editorial: Biology, Systematics, and Evolution of Ferns and Lycophytes in the Omics Era II. Frontiers in Plant Science 16: 1629348.
+
+Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM. 2025. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, in press.
+
+Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. 2025. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. Proceedings of the National Academy of Sciences, in press.
 
 Fauskee B, **Kuo L-Y**, Heath T, **Xie P-J**, Pryer KM. Comparative phylogenetic analyses of RNA editing in fern plastomes. New Phytologist, doi: 10.1111/nph.70244.
-
-Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM, Zhang D. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, in press.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. 2025. Phyllosphere mycobiome in two Lycopodiaceae plant species: unraveling potential HupA-Producing fungi and fungal interactions. Frontiers in Plant Science 16: 1426540.
 
