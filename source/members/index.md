@@ -59,42 +59,45 @@ date: 2021-09-30 02:26:52
 
 # PI
 &nbsp;**郭立園 Li-Yaung Kuo** (2019~present)
-&nbsp;&nbsp; I am particularly interested in phylogenetics and evolutionary issues of ferns!
-&nbsp;&nbsp;&nbsp; https://www.researchgate.net/profile/Li-Yaung-Kuo
+&nbsp;&nbsp;I am particularly interested in phylogenetics and evolutionary issues of ferns!
+&nbsp;&nbsp;&nbsp;➡︎https://www.researchgate.net/profile/Li-Yaung-Kuo
+
 
 
 ## Research Assistant 
 
 &nbsp;**劉恩 En Liu** (2025~present) 
-&nbsp;&nbsp;&nbsp; 過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
-&nbsp;&nbsp;&nbsp; 目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
+&nbsp;&nbsp;&nbsp;過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
+&nbsp;&nbsp;&nbsp;目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
 
 &nbsp;**藍世裕 Charles Lan** (2025)
 
 &nbsp;**謝佩君 Pei-Jun Xie** (2021~2024)
-&nbsp;&nbsp;&nbsp; 我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
-&nbsp;&nbsp;&nbsp; 對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
+&nbsp;&nbsp;&nbsp;我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
+&nbsp;&nbsp;&nbsp;對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
 
 &nbsp;**黃育萱 Yu-Hsuan Huang** (2021)
 
 &nbsp;**柯雅婷** (2019~2020)
-&nbsp;&nbsp;&nbsp; 我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員。
+&nbsp;&nbsp;&nbsp;我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員。
 
 &nbsp;**蕭家恩** (2018)
 
 
+
 ## Ph.D. Student
 
-&nbsp;**林耀傑	Ponpipat Limpanasittichai นาย** (2024~present)
-&nbsp;&nbsp;&nbsp; 我超喜歡蕨類，但我更喜歡咖啡。
+&nbsp;**林耀傑 Ponpipat Limpanasittichai นาย** (2024~present)
+&nbsp;&nbsp;&nbsp;我超喜歡蕨類，但我更喜歡咖啡。
 
-&nbsp;**黃友聞	You-Wun Hwang** (2020~present)
-&nbsp;&nbsp;&nbsp; 頭上快長三叉蕨的研究生。
+&nbsp;**黃友聞 You-Wun Hwang** (2020~present)
+&nbsp;&nbsp;&nbsp;頭上快長三叉蕨的研究生。
+
 
 
 ## Master Student
 
-&nbsp;**賴昱蓉	Yu-Jung Lai** (2025~present)
+&nbsp;**賴昱蓉 Yu-Jung Lai** (2025~present)
 &nbsp;&nbsp;&nbsp;以蕨類孢子，破解身分之謎，找出它到底是誰！
 
 &nbsp;**劉又銜 You-Xian Liu** (2024~present) From 2021 undergraduate students
@@ -106,7 +109,7 @@ date: 2021-09-30 02:26:52
 &nbsp;&nbsp;&nbsp;抓蕨類背面的蟲蟲回實驗室，關心他們是誰。
 
 &nbsp;**李育鴻** (2022~present)
-&nbsp;&nbsp;&nbsp;地耳蕨小幫手，蝸刮刮刮刮蝸瓜瓜，兼職新手農夫、蝸牛愛好者，穿越到大一重新開始的大四時空旅人
+&nbsp;&nbsp;&nbsp;地耳蕨小幫手，蝸刮刮刮刮蝸瓜瓜，兼職新手農夫、蝸牛愛好者，穿越到大一重新開始的大四時空旅人。
 
 &nbsp;**陳筠Yun Chen** (2022~2025)
 &nbsp;&nbsp;&nbsp;探索瓶爾小草與真菌之間的微妙關係，也做了一些瓶爾小草亞科之間的分類議題，並在畢業後兼任實驗室的室內裝修師與網路IT工程師。
@@ -115,7 +118,7 @@ date: 2021-09-30 02:26:52
 &nbsp;&nbsp;&nbsp;曾經是設計了一套probes，為了探索台灣羅蔓藤蕨獨立配子體的起源而四處採集的前碩四生。
 &nbsp;&nbsp;&nbsp;現在則是在生資領域中做工，整天看著電腦聽著打字聲。
 
-&nbsp;**黃育萱 Yu-Hsuan Huang** (2021～2023)
+&nbsp;**黃育萱 Yu-Hsuan Huang** (2021~2023)
 &nbsp;&nbsp;&nbsp;跟溪邊蕨和聖蕨類群一起打滾了近十年，才終於從他們身上得到學位！一開始沒想到這個類群居然這麼複雜，
 &nbsp;&nbsp;&nbsp;原本認知的被推翻，還經歷了屬名搬動，甚至還有很多新東西，目前努力整理後續資料中！（喜歡土匪兔和吉掰兔，歡迎給我週邊（欸））
 
@@ -124,27 +127,34 @@ date: 2021-09-30 02:26:52
 &nbsp;**Alexandria Quinlan** (2020~2022)
 &nbsp;&nbsp;&nbsp;I have a special fervor for ferns, and other spore producing organisms. 
 &nbsp;&nbsp;&nbsp;I am particularly interested in ecological assocations, such as ferns growing on tree ferns, 
-&nbsp;&nbsp;&nbsp;moss growing on tree ferns, algae growing on tree ferns, fungi growing on tree ferns... if I could, I would also grow on a tree fern.
+&nbsp;&nbsp;&nbsp;moss growing on tree ferns, algae growing on tree ferns, fungi growing on tree ferns... 
+&nbsp;&nbsp;&nbsp;if I could, I would also grow on a tree fern.
+
+
 
 ## Undergrads
 
-2021
-**劉孝謙**
-想知道槲蕨腐植質蒐集葉以及營養葉的差異的迷糊大學生
+&nbsp;**劉孝謙** (2021)
+&nbsp;&nbsp;&nbsp;想知道槲蕨腐植質蒐集葉以及營養葉的差異的迷糊大學生。
 
-**蔡秉言**
-醫科24級，無融合生殖相關研究，植物學新手((狡兔已經好幾窟了，除了生科院與宿舍外還不定時出沒在厚德、載物書院、台達與電資館
+&nbsp;**蔡秉言 Bing-Yan Tsai**
+&nbsp;&nbsp;&nbsp;"醫科系雙主修電機系的大學生，目前已離開研究室。
+&nbsp;&nbsp;&nbsp;曾經的題目為「比較無融合生殖和有性生殖的配子體在不同發育階段的生長與基因表現差異」，是個我認為很有發展與應用潛力的題目，
+&nbsp;&nbsp;&nbsp;也還留有許多可以執行的地方，歡迎有興趣的新進再跟老師討論，將題目發展下去。(〃￣ω￣)人(￣︶￣〃)"
+&nbsp;&nbsp;&nbsp;➡︎https://www.facebook.com/cai.bing.yan.654772/
 
-2020
-**孫梓云**
-拿著顏料畫筆在實驗室不務正業的蕨蕨標本繪圖仔：Ｄ
-
-2021
-**陳彥臻**
-蕨類研究室養蟲子是否搞錯了什麽？
+&nbsp;**陳彥臻 Yan-Zhen Chen** (2022~2025)
+&nbsp;&nbsp;&nbsp;在蕨類實驗室尋求昆蟲是否搞錯了什麼?
 
 
-# Alumni
+
+## Botanical artist
+&nbsp;**孫梓云Chih-Yun Sun** (2021～present)
+&nbsp;&nbsp;&nbsp;在專門在蕨的厭室畫蕨類figure的常駐吉祥物。
+&nbsp;&nbsp;&nbsp;➡︎https://www.instagram.com/the_herbalist_biopen?igsh=dHd5Mnd2OXB6dXdu&utm_source=qr
+
+
+## Alumni
 
 **柯秉豐**
 
