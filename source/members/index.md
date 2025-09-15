@@ -58,64 +58,77 @@ date: 2021-09-30 02:26:52
 
 
 ## PI
-**郭立園 Li-Yaung Kuo**
+**郭立園 Li-Yaung Kuo** (2019~present)
+  I am particularly interested in phylogenetics and evolutionary issues of ferns!
+  https://www.researchgate.net/profile/Li-Yaung-Kuo
 
-https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 ## Research Assistant 
 
-2021
-**謝佩君**
-我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
+**劉恩 En Liu** (2025~present) 
+  過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
+  目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
 
-2019~2020
-**柯雅婷**
-我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員
+**藍世裕 Charles Lan** (2025)
 
-2018
-**蕭家恩**
+**謝佩君 Pei-Jun Xie** (2021~2024)
+  我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
+  對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
+
+**黃育萱 Yu-Hsuan Huang** (2021)
+
+**柯雅婷** (2019~2020)
+  我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員。
+
+**蕭家恩** (2018)
 
 
 ## Ph.D. Student
-**TBD**
-熱情招募中，歡迎您加入
+
+**林耀傑	Ponpipat Limpanasittichai นาย** (2024~present)
+  我超喜歡蕨類，但我更喜歡咖啡。
+
+**黃友聞	You-Wun Hwang** (2020~present)
+  頭上快長三叉蕨的研究生。
+
 
 ## Master Student
 
-2022
-**李育鴻**
-地耳蕨小幫手，蝸刮刮刮刮蝸瓜瓜，兼職新手農夫、蝸牛愛好者，穿越到大一重新開始的大四時空旅人
+**賴昱蓉	Yu-Jung Lai** (2025~present)
+  以蕨類孢子，破解身分之謎，找出它到底是誰！
 
-**陳筠**
-探索瓶爾小草與真菌之間的關係，雖然蕨得這題目有點難，但希望可以順利完成
+**劉又銜 You-Xian Liu** (2024~present) From 2021 undergraduate students
+  目前正在研究蕨類的性別調控機制，促精素系統。
+  我曾經在腦海中想像這種避免自交、增進遺傳多樣性的機制，要是擬人化後的情況。
+  後來發現，人類的倫理道德還是不要套用到蕨類身上會比較好。
 
-2021 
-**吳亦烜**
-騎著檔車追尋台灣羅蔓藤蕨獨立配子體起源的菜鳥研究生里長伯。
+**王于嘉 Yoga** (2023~present) From 2022 undergraduate students
+  抓蕨類背面的蟲蟲回實驗室，關心他們是誰。
 
-**黃育萱**
-蕨類是我的生活。專職研究溪(ㄎㄚˇ)邊(ㄋㄚˋ )蕨(ㄏㄜˋ)屬(ㄌㄚ)中的聖蕨類群
+**李育鴻** (2022~present)
+  地耳蕨小幫手，蝸刮刮刮刮蝸瓜瓜，兼職新手農夫、蝸牛愛好者，穿越到大一重新開始的大四時空旅人
 
-**唐聖凱 Shengkai Tang** 
+**陳筠Yun Chen** (2022~2025)
+  探索瓶爾小草與真菌之間的微妙關係，也做了一些瓶爾小草亞科之間的分類議題，並在畢業後兼任實驗室的室內裝修師與網路IT工程師。
 
-2020 
-**黃友聞**
-時常在無花植物中開花、左手拿孢子葉右手拿營養葉的實驗室夜貓(ㄕㄨㄛˋ)子(ㄦˋ)。
+**吳亦烜 Yi-Hsuan Wu** (2021~2024) From 2019 undergraduate students
+  曾經是設計了一套probes，為了探索台灣羅蔓藤蕨獨立配子體的起源而四處採集的前碩四生。
+  現在則是在生資領域中做工，整天看著電腦聽著打字聲。
 
-**Alexandria Quinlan**
+**黃育萱 Yu-Hsuan Huang** (2021～2023)
+  跟溪邊蕨和聖蕨類群一起打滾了近十年，才終於從他們身上得到學位！一開始沒想到這個類群居然這麼複雜，
+  原本認知的被推翻，還經歷了屬名搬動，甚至還有很多新東西，目前努力整理後續資料中！（喜歡土匪兔和吉掰兔，歡迎給我週邊（欸））
+
+**唐聖凱 Shengkai Tang** (2021~present)
+
+**Alexandria Quinlan** (2020~2022)
 I have a special fervor for ferns, and other spore producing organisms. I am particularly interested in ecological assocations, such as ferns growing on tree ferns, moss growing on tree ferns, algae growing on tree ferns, fungi growing on tree ferns... if I could, I would also grow on a tree fern.
 
 ## Undergrads
-2022
-**王于嘉**
-我愛吃孢子~ 我研究的蛾也愛吃孢子
 
 2021
 **劉孝謙**
 想知道槲蕨腐植質蒐集葉以及營養葉的差異的迷糊大學生
-
-**劉又銜**
-植物激素對孢子發芽率的影響，沒有發黴的孢子才是好包子
 
 **蔡秉言**
 醫科24級，無融合生殖相關研究，植物學新手((狡兔已經好幾窟了，除了生科院與宿舍外還不定時出沒在厚德、載物書院、台達與電資館
@@ -128,18 +141,21 @@ I have a special fervor for ferns, and other spore producing organisms. I am par
 **陳彥臻**
 蕨類研究室養蟲子是否搞錯了什麽？
 
+
 # Alumni
+
 **柯秉豐**
 
 **陳佳茵**
 
+
 ## Web Developer (IT)
 
 **王廣鈞**
-printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生科研究費轉化成果效益");
+  printf("社會底層小角落的一位繳稅人士，監督某570b7acb大學生科研究費轉化成果效益");
 
 **詹元耀**
-"我愛地球"
+  "我愛地球"
 
 <style>
     .map_wrapper{
