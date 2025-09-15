@@ -59,26 +59,26 @@ date: 2021-09-30 02:26:52
 
 # PI
 **郭立園 Li-Yaung Kuo** (2019~present)
-> I am particularly interested in phylogenetics and evolutionary issues of ferns!
-> https://www.researchgate.net/profile/Li-Yaung-Kuo
+&nbsp;&nbsp; I am particularly interested in phylogenetics and evolutionary issues of ferns!
+&nbsp;&nbsp; https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 
 ## Research Assistant 
 
 **劉恩 En Liu** (2025~present) 
-> 過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
-> 目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
+&nbsp;&nbsp; 過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
+&nbsp;&nbsp; 目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
 
 **藍世裕 Charles Lan** (2025)
 
 **謝佩君 Pei-Jun Xie** (2021~2024)
-  我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
-  對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
+&nbsp;&nbsp; 我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
+&nbsp;&nbsp; 對我而言，蕨類與石松類的形態與演化一直是非常有趣的議題，在這裡我也運用我的解剖專長探究三叉蕨兩型葉的形態差異。
 
 **黃育萱 Yu-Hsuan Huang** (2021)
 
 **柯雅婷** (2019~2020)
-  我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員。
+&nbsp;&nbsp; 我是萃取了上百種蕨類DNA和RNA卻認不出任何一種蕨類的分生技術專員。
 
 **蕭家恩** (2018)
 
@@ -86,10 +86,10 @@ date: 2021-09-30 02:26:52
 ## Ph.D. Student
 
 **林耀傑	Ponpipat Limpanasittichai นาย** (2024~present)
-  我超喜歡蕨類，但我更喜歡咖啡。
+&nbsp;&nbsp; 我超喜歡蕨類，但我更喜歡咖啡。
 
 **黃友聞	You-Wun Hwang** (2020~present)
-  頭上快長三叉蕨的研究生。
+&nbsp;&nbsp; 頭上快長三叉蕨的研究生。
 
 
 ## Master Student
