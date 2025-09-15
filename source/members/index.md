@@ -57,17 +57,17 @@ date: 2021-09-30 02:26:52
 </div>
 
 
-## PI
+# PI
 **郭立園 Li-Yaung Kuo** (2019~present)
-> blockquote I am particularly interested in phylogenetics and evolutionary issues of ferns!
-> blockquote https://www.researchgate.net/profile/Li-Yaung-Kuo
+> I am particularly interested in phylogenetics and evolutionary issues of ferns!
+> https://www.researchgate.net/profile/Li-Yaung-Kuo
 
 
 ## Research Assistant 
 
 **劉恩 En Liu** (2025~present) 
-  過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
-  目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
+> 過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
+> 目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
 
 **藍世裕 Charles Lan** (2025)
 
