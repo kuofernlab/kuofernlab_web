@@ -11,6 +11,9 @@ Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unra
 
 Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. Evolutionary mobility of MORFFO genes: shuttling in and out of plastomes in an ancient fern lineage. In review.
 
+Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. In review.
+
+Quinlan A, **Kuo L-Y**, Hu J-M, Huang Y-M. Ferns on ferns: gametophyte assemblages on tree ferns reveal associations with accidentally epiphytic ferns. In review.
 
 # 2025
 
