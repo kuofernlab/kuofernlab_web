@@ -70,7 +70,7 @@ date: 2021-09-30 02:26:52
 &nbsp;&nbsp;&nbsp;&nbsp;過去研究主題圍繞在耳蕨屬的經典分類，喜歡蕨類但極度偏好耳蕨跟有耳蕨的高山。
 &nbsp;&nbsp;&nbsp;&nbsp;目前在實驗室做一些分生與細胞學實驗，以及寫分類文章～希望以後能不要只做分類～
 
-&nbsp;**藍世裕 Charles Lan** (2025)
+&nbsp;**藍世裕 Charles Lan** (2025~present) 
 
 &nbsp;**謝佩君 Pei-Jun Xie** (2021~2024)
 &nbsp;&nbsp;&nbsp;&nbsp;我是助理姐姐，負責管理實驗室大小事和大部分的分子實驗，同時學習成為一位植物學家。
@@ -112,7 +112,7 @@ date: 2021-09-30 02:26:52
 &nbsp;&nbsp;&nbsp;&nbsp;地耳蕨小幫手，蝸刮刮刮刮蝸瓜瓜，兼職新手農夫、蝸牛愛好者，穿越到大一重新開始的大四時空旅人。
 
 &nbsp;**陳筠Yun Chen** (2022~2025)
-&nbsp;&nbsp;&nbsp;&nbsp;探索瓶爾小草與真菌之間的微妙關係，也做了一些瓶爾小草亞科之間的分類議題，並在畢業後兼任實驗室的室內裝修師與網路IT工程師。
+&nbsp;&nbsp;&nbsp;&nbsp;探索瓶爾小草與真菌之間的微妙關係，也做了一點點瓶爾小草亞科之間的分類議題。
 
 &nbsp;**吳亦烜 Yi-Hsuan Wu** (2021~2024) From 2019 undergraduate students
 &nbsp;&nbsp;&nbsp;&nbsp;曾經是設計了一套probes，為了探索台灣羅蔓藤蕨獨立配子體的起源而四處採集的前碩四生。
