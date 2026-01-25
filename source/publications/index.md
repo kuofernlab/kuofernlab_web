@@ -5,28 +5,33 @@ date: 2021-09-18 15:57:57
 
 (*equally contributed)
 
-## in press or review
-
-Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
-
-Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. Evolutionary mobility of MORFFO genes: shuttling in and out of plastomes in an ancient fern lineage. In review.
+## in review
 
 Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. In review.
 
+Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
+
 Quinlan A, **Kuo L-Y**, Hu J-M, Huang Y-M. Ferns on ferns: gametophyte assemblages on tree ferns reveal associations with accidentally epiphytic ferns. In review.
 
-# 2025
+## 2026
+
+Fujiwara T*, **Limpanasittichai P***, Yoneoka K, Tagane S, Vongthavone T, Yamamoto T, Dang VS, Souladeth P, Chamchumroon V, Ebihara A, Sundue M. **Kuo L-Y**. 2026. Cryptocaulaceae: a new and deeply diverged branch within the fern tree of life.  Journal of Plant Research, in press. 
+
+Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. 2026. Evolutionary mobility of MORFFO genes: shuttling among ancient plant lineages. New Phytologist, doi: 10.1111/nph.70986
+
+Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM. 2026. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, doi: 10.1002/tax.70030
+
+## 2025
 
 **Kuo L-Y**, Salino A, Almeida TE. 2025. Editorial: Biology, Systematics, and Evolution of Ferns and Lycophytes in the Omics Era II. Frontiers in Plant Science 16: 1629348.
 
-Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM. 2025. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, in press.
+Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. 2025. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. Proceedings of the National Academy of Sciences 22: e2504773122.
 
-Pelosi J, Davenport R, **Kuo L-Y**, Gray LN, Dan AJ, Kim EH, Li F-W, Dlugosch KM, Krabbenhoft TJ, Barbazuk WB, et al. 2025. The genome of the vining fern Lygodium microphyllum highlights genomic and functional differences between life phases of an invasive plant. Proceedings of the National Academy of Sciences, in press.
-
-Fauskee B, **Kuo L-Y**, Heath T, **Xie P-J**, Pryer KM. Comparative phylogenetic analyses of RNA editing in fern plastomes. New Phytologist, doi: 10.1111/nph.70244.
+Fauskee B, **Kuo L-Y**, Heath T, **Xie P-J**, Pryer KM. Comparative phylogenetic analyses of RNA editing in fern plastomes. New Phytologist 247: 2945-2963.
 
 Lin L, Li C, Chang C-C, Du R, Ji J, **Kuo L-Y**, Chen K-H. 2025. Phyllosphere mycobiome in two Lycopodiaceae plant species: unraveling potential HupA-Producing fungi and fungal interactions. Frontiers in Plant Science 16: 1426540.
 
+Shen Z-Y, Hsu Y-F, Huang J-P, **Kuo L-Y**, Yago M. 2025. Diversity of the specialized fern-spore feeding micromoths, Cuprininae (Lepidoptera: Stathmopodidae). Taiwan Natural Science 44: 20-27.
 
 ## 2024
 
