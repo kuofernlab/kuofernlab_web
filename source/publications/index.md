@@ -18,7 +18,7 @@ Game JC, **Hwang Y-W**, **Kuo L-Y**. Tectaria membranacea (Hook.) Fraser-Jenk. &
 
 ## 2026
 
-Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. The Plant Journal, in press.
+Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. 2026. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. The Plant Journal, in press.
 
 Chang Z-X*, Hsu T-C*, **Qi X***, Hsieh CM, Ebihara A, Chang Y-H, Huang Y-M, **Kuo L-Y**. 2026. Phylogeny and taxonomy of coral reef maidenhair fern Adiantum capillus-veneris subsp. lanyuanum (Pteridaceae) in East Asia. New Zealand Journal of Botany, in press.
 
