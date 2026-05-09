@@ -7,19 +7,29 @@ date: 2021-09-18 15:57:57
 
 ## in review
 
-Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. In review.
+Rizzieri YC, **Limpanasittichai P**, Fernando H, Mendez-Reneau J, Holt SD, Sutherland BL, Mandáková T, Beck J, **Kuo L-Y**, Kooyers NJ, et al. The dynamic genomes of Salvinia reshape our understanding of fern chromosome evolution. In review.
 
-Shen Z-Y, **Wang Y-C**, **Kuo L-Y**, Yago M, Huang C-W, Huang J-P, Hsu Y-F. Unraveling Taiwan’s fern-spore feeding micromoths: taxonomic review and host utilization of the subfamily Cuprininae (Lepidoptera: Stathmopodidae). In review.
+**Quinlan A**, **Kuo L-Y**, Hu J-M, Huang Y-M. Ferns on ferns: gametophyte assemblages on tree ferns reveal associations with accidentally epiphytic ferns. In review.
 
-Quinlan A, **Kuo L-Y**, Hu J-M, Huang Y-M. Ferns on ferns: gametophyte assemblages on tree ferns reveal associations with accidentally epiphytic ferns. In review.
+Chang Z-X, Hsu T-C, Chen C-W, **Limpanasittichai P**, **Liu E**, **Kuo L-Y**. Scleroglossum stellatum and S. thailandicum (Grammitidaceae; Polypodiaceae), two new grammitid ferns from Asia. In review.
+
+Game JC, **Hwang Y-W**, **Kuo L-Y**. Tectaria membranacea (Hook.) Fraser-Jenk. & Kholia (Tectariaceae) in Fiji and the Cook Islands. In review.
+
 
 ## 2026
 
-Fujiwara T*, **Limpanasittichai P***, Yoneoka K, Tagane S, Vongthavone T, Yamamoto T, Dang VS, Souladeth P, Chamchumroon V, Ebihara A, Sundue M. **Kuo L-Y**. 2026. Cryptocaulaceae: a new and deeply diverged branch within the fern tree of life.  Journal of Plant Research, in press. 
+Fauskee BD*, **Kuo L-Y***, Kwok van der GiezenF, Pryer KM. Losing genes, gaining edits: how relaxed selection and inverted repeat expansion shape RNA editing in Schizaeaceae plastomes. The Plant Journal, in press.
 
-Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. 2026. Evolutionary mobility of MORFFO genes: shuttling among ancient plant lineages. New Phytologist, doi: 10.1111/nph.70986
+Chang Z-X*, Hsu T-C*, **Qi X***, Hsieh CM, Ebihara A, Chang Y-H, Huang Y-M, **Kuo L-Y**. 2026. Phylogeny and taxonomy of coral reef maidenhair fern Adiantum capillus-veneris subsp. lanyuanum (Pteridaceae) in East Asia. New Zealand Journal of Botany, in press.
 
-Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM. 2026. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a phyloplastomic backbone. Taxon, doi: 10.1002/tax.70030
+Fujiwara T*, **Limpanasittichai P***, Yoneoka K, Tagane S, Vongthavone T, Yamamoto T, Dang VS, Souladeth P, Chamchumroon V, Ebihara A, Sundue M. **Kuo L-Y**. 2026. Cryptocaulaceae: a new and deeply diverged branch within the fern tree of life. Journal of Plant Research, doi: 10.1007/s10265-026-01698-0. 
+
+Labiak PH*, **Kuo L-Y***, Fauskee BD, Karol KG. 2026. Evolutionary mobility of MORFFO genes: shuttling among ancient plant lineages. New Phytologist 250: 1248-1264.
+
+Fawcett S*, **Liu E***, **Lan S-Y C**, Smith AR, **Kuo L-Y**. 2026. A new species of Arthropteris from Samoa. New Zealand Journal of Botany, doi: 10.1002/nzb2.70092.
+
+Shao W*, **Kuo L-Y***, Chen C-W, Shang H, Maryani AM. 2026. Phylogenetics and systematics of selligueoid ferns based on comprehensive taxon sampling and a 
+phyloplastomic backbone. Taxon 75: e70030.
 
 ## 2025
 
